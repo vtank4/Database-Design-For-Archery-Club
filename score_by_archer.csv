@@ -1,0 +1,16 @@
+CompetitionID,RoundDefinitionID,Shoot_date,Shoot_Time,Archer_ID,Age,Gender,Equipmentname,TotalScore
+1,WA90/1440,2022-03-15,14:30:00,100,19,Female,Recurve,1622
+19,WA70/1440,2022-03-28,12:00:00,100,19,Female,Recurve,1559
+10,Adelaide,2022-04-03,10:40:00,207,61,Male,Recurve,660
+11,"Short Adelaide",2022-04-03,11:00:00,310,63,Female,Recurve,650
+6,"Long Sydney",2022-03-29,09:20:00,102,60,Female,Compound,642
+8,"Long Brisbane",2022-04-02,15:04:00,100,19,Female,Compound,625
+12,Hobart,2022-04-03,10:00:00,100,19,Female,Compound,511
+13,Perth,2022-03-27,10:40:00,110,39,Male,"Recurve Barebow",466
+7,Sydney,2022-03-29,10:00:00,103,64,Female,"Recurve Barebow",697
+9,Brisbane,2022-04-02,15:00:00,207,61,Male,"Compound Barebow",661
+23,AA50/1440,2022-03-19,11:00:00,100,19,Female,Longbow,675
+18,WA60/1440,2022-03-30,12:04:00,101,18,Male,Longbow,783
+5,AA40/1440,2022-04-05,11:05:00,101,18,Male,Longbow,773
+18,WA60/1440,2022-03-30,13:40:00,106,49,Male,Longbow,803
+23,AA50/1440,2022-03-19,10:00:00,102,60,Female,Longbow,803
