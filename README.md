@@ -1,7 +1,7 @@
 # Archery Club Database Project Report
 
 ## Project Overview
-This project involves the design and implementation of a database system for an archery club. The primary goal is to manage and analyze the scores of archers across various competitions and rounds. The database stores detailed information about each archer, their scores, and the competitions they participate in.
+This project involves the design and implementation of a database system for an archery club. The primary goal is to manage and analyze the scores of archers across various competitions and rounds. The database stores detailed information about each archer, their scores, and the competitions they participate in. One important notice is that all this project doesnt use any real data, just some stimulator data to test the database.
 
 ## Key Components
 1. **Database Schema**: The database schema includes tables such as `Archer`, `EndScoreTable`, `Competition`, and `RoundShoot`. These tables are designed to store relevant data about archers, their scores, and competition details.
